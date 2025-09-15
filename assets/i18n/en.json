@@ -1,0 +1,12 @@
+{
+  "app_name": "AEGIS",
+  "home": "Home",
+  "analytics": "Analytics",
+  "settings": "Settings",
+  "send": "Send",
+  "receive": "Receive",
+  "balance": "Balance",
+  "voice_hint": "Hold voice to speak your intent.\nExample: \"Send 300 to Arjun\" or \"I bought groceries 1200\"",
+  "beta": "beta",
+  "language": "Language"
+}
